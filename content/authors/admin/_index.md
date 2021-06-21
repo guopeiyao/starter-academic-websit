@@ -10,30 +10,19 @@ role: 学生
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: 西安邮电大学
+  url: http://www.xiyou.edu.cn//
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 一个就读于西邮的大二学生
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- 读书
+- 敲代码
 
 # Education to show in About widget
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -69,9 +58,6 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+   西安邮电大学通信与信息工程学院（人工智能学院）是在原通信工程系基础上组建而成，学科和专业建设的历史可追溯至1959年西安邮电大学建校之初。现拥有通信工程、物联网工程、人工智能、信息工程、电子信息科学与技术、广播电视工程、电信工程及管理等7个本科专业，拥有信息与通信工程硕士学位授予权一级学科、电子信息硕士专业学位授权类别、陕西省首批博士后创新基地。2017年学院信息与通信工程学科获批陕西省“一流学科”，在全国第四轮学科评估中获得B-排位。经过50多年的建设与发展，学院已成为西安邮电大学学科实力突出、专业优势明显、师资力量雄厚、历史渊源深远的学院之一。学院先后荣获陕西省教育系统精神文明建设和宣传思想工作先进集体、陕西省师德建设先进集体、陕西省教育系统先进集体、陕西省创新创业教育试点学院称号。      
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
